@@ -1,5 +1,3 @@
-import color from "../shared/constans/color";
-
 export interface ICharacters {
   eye_color: string;
   gender: string;

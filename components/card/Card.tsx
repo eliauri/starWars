@@ -1,6 +1,6 @@
 import { View, Text, StyleSheet, Pressable } from "react-native";
 import Size from "../Size";
-import { ICharacters } from "../../types/type";
+import { ICharacters } from "../../shared/types/type";
 import color from "../../shared/constans/color";
 import { memo } from "react";
 import Tags from "./Tags";

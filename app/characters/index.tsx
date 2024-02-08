@@ -13,7 +13,7 @@ import Card from "../../components/card/Card";
 import ModalWindow from "../../components/card/CardModal";
 import useFetch from "../../shared/hooks/useFetch";
 import color from "../../shared/constans/color";
-import { IFetchCharacters } from "../../types/type";
+import { IFetchCharacters } from "../../shared/types/type";
 import { getUniqueOptions } from "../../shared/utils/getUniqueOptions";
 
 const CharactersPage = () => {

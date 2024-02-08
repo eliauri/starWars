@@ -1,7 +1,7 @@
 import { Modal, StyleSheet, View, Text, Pressable, Image } from "react-native";
 import { LinearGradient } from "expo-linear-gradient";
 
-import { ICharacters } from "../../types/type";
+import { ICharacters } from "../../shared/types/type";
 import Size from "../Size";
 import Tags from "./Tags";
 
